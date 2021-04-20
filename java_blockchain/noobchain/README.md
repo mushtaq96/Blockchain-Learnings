@@ -4,6 +4,7 @@ Result,
 1. Accomplished a basic blockchain
 2. Got to learn how to implement a simple POW (proof of work) or a mining algorithm which is at the core of all blockchain protocols.
 
+reference resource - https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa
 
 ## Getting Started
 
